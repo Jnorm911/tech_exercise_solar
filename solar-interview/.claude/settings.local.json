@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/tentacle/Projects/work/tech_exercise_solar -name CLAUDE.md -o -name *.sh)",
+      "Bash(php artisan:*)"
+    ]
+  }
+}
